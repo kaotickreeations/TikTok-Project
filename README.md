@@ -36,11 +36,30 @@ TikTok’s data team is working on the claims classification project. The follow
 
 Determine the correct modeling approach
 
+![image](https://github.com/user-attachments/assets/ff61e876-0302-4a52-82f2-1f3b3ee32a51)
+![image](https://github.com/user-attachments/assets/1e54b2cb-46ad-42d6-b178-9c0bea02e3c8)
+![image](https://github.com/user-attachments/assets/c79f902f-dc64-4d41-b0c0-41fe4d304312)
+![image](https://github.com/user-attachments/assets/f89c0105-dedb-4905-933b-cd9968cff909)
+![image](https://github.com/user-attachments/assets/c85f01ef-3221-45ad-8052-e222601473ed)
+![image](https://github.com/user-attachments/assets/aa611240-ba82-4e00-960d-a1bdf2052f23)
+
 Build a regression model
+
+![image](https://github.com/user-attachments/assets/dc344a45-9220-4a26-9a55-39aaa92a11a5)
+
+
+![image](https://github.com/user-attachments/assets/051b8fda-4ead-4a5f-b714-4bd9dac2d3c4)
+
 
 Finish checking model assumptions
 
+![image](https://github.com/user-attachments/assets/4a4a2764-cbc1-4f19-995d-b30a37e40010)
+
 Evaluate the model
+
+
+![image](https://github.com/user-attachments/assets/ad02f4b9-2441-47a7-b77d-7c29214378c7)
+
 
 Interpret model results and summarize findings for cross-departmental stakeholders within TikTok
 
