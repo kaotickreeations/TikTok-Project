@@ -58,34 +58,14 @@ Finish checking model assumptions
 Evaluate the model
 
 
-![image](https://github.com/user-attachments/assets/ad02f4b9-2441-47a7-b77d-7c29214378c7)
+![image](https://github.com/user-attachments/assets/774b53dd-cc8a-4f21-81f7-e8e42c3b8f07)
+
 
 
 Interpret model results and summarize findings for cross-departmental stakeholders within TikTok
 
 Your assignment
 You will create a regression model for the claims classification data. You'll determine the type of regression model that is needed and develop one using TikTok's claim classification data.
-
-Team members at TikTok
-Data team roles
-Willow Jaffey- Data Science Lead
-
-Rosie Mae Bradshaw- Data Science Manager
-
-Orion Rainier- Data Scientist
-
-The members of the data team at TikTok are well versed in data analysis and data science. Messages to these more technical coworkers should be concise and specific.
-
-Cross-functional team members
-Mary Joanna Rodgers- Project Management Officer
-
-Margery Adebowale- Finance Lead, Americas
-
-Maika Abadi- Operations Lead
-
-Your TikTok team includes several managers, who oversee operations. It is important to adjust your general correspondence appropriately to their roles, given that their responsibilities are less technical in nature. 
-
-Note: The story, all names, characters, and incidents portrayed in this project are fictitious. No identification with actual persons (living or deceased) is intended or should be inferred. And, the data shared in this project has been created for pedagogical purposes. 
 
 Specific project deliverables
 With this end-of-course project, you will gain valuable practice and apply your new skills as you complete the following:
@@ -100,11 +80,8 @@ Evaluate the model
 
 Create an executive summary to share your results 
 
-Key takeaways 
-The Google Advanced Data Analytics Certificate end-of-course project is designed for you to practice and apply course skills in a fictional workplace scenario. By completing each course’s end-of-course project, you will have work examples that will enhance your portfolio and showcase your skills for future employers.
-
-Finish checking model assumptions
-
-Evaluate the model
-
-Interpret model results and summarize findings for cross-departmental stakeholders within TikTok
+ The data has some highly correlated variables so I dropped the column video_like_count from the
+ model. It could have led to some multicollinearity issues when fitting the model. The model wasn’t
+ the best and could probably be better. 0.61 precision, but .84 recall isn’t too bad.
+ The longer the video the higher the likelihood of the user being verified. The model had decent
+ prediction but, I would move on to trying a different model or a Neural Network.
